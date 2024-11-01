@@ -1,0 +1,43 @@
+#player-season-content {
+  display: block;
+}
+.tss-hidden-content {
+  margin:10px 0px;
+}
+
+.tss-admin-list-item {
+  margin: 10px 0px;
+}
+.tss-admin-list-item:hover {
+  opacity:0.5;
+}
+
+span.btn {
+  cursor: pointer;
+  padding: 2px 15px;
+  font-size: inherit;
+  border: 2px solid #000;
+  background-color: #FEFEFE;
+  display: inline-block;
+  float: right;
+}
+span.btn.left {
+	float: none;
+}
+
+span.btn img {
+  display: none;
+}
+
+.penalty-goals-content {
+  display: none;
+}
+/*
+.row-actions span.trash {
+  display: none;
+}
+
+.submitbox .submitdelete {
+  display: none;
+}
+*/
